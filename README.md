@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **usmanghanikhan320@gmail.com** For Collaboration/Project o
 
 - 🔭 *I’m currently working on:* My personal Portfolio
 - 🌱 *I’m currently learning:* DSA and Programming for AI
-- 👯 *I’m looking to collaborate on:* Enter your project name and inf
+- 👯 *I’m looking to collaborate on:* Enter your project name and info
 - 🤔 *I’m looking for help with:* Your project here
 - 💬 *Ask me about:* Collaboration, Tech Support
 - 📫 *How to reach me:* usmanghanikhan320@gmail.com
