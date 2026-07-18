@@ -4,12 +4,12 @@
 
 Email Me 👉 ✉️ **usmanghanikhan320@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 *I’m currently working on:* Enter your project info here
-- 🌱 *I’m currently learning:* Enter your tech here
-- 👯 *I’m looking to collaborate on:* Enter your project name and info
+- 🔭 *I’m currently working on:* My personal Portfolio
+- 🌱 *I’m currently learning:* DSA and Programming for AI
+- 👯 *I’m looking to collaborate on:* Enter your project name and inf
 - 🤔 *I’m looking for help with:* Your project here
 - 💬 *Ask me about:* Collaboration, Tech Support
-- 📫 *How to reach me:* Enter your email here
+- 📫 *How to reach me:* usmanghanikhan320@gmail.com
 - 😄 *Pronouns:* I'm Usman Ghani Khan (UGK)
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 
